@@ -1,0 +1,4 @@
+baseURL = 'https://lonliKoder.github.io/'
+languageCode = 'en-us'
+title = 'lonliKoder'
+theme = 'ananke'
